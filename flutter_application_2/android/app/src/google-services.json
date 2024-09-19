@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487573002189",
+    "project_id": "trackeribus-df3ae",
+    "storage_bucket": "trackeribus-df3ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487573002189:android:5f9ef3b2e8ad9772751684",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487573002189-k43sleb0shv9tiamjn2i580utfktn6f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAstdR2J_TbUQKRi6emxx-b_g6O6WVXKyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487573002189-k43sleb0shv9tiamjn2i580utfktn6f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
